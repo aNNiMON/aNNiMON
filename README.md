@@ -1,6 +1,6 @@
 ### Hi there, I'm aNNiMON!
 
-I love 💻 programming, :headphones: music, :art: art, :runner: running, :thinking: learning and :speaking_head: sharing knowledge.
+I love 💻 programming, :octocat: open source, :headphones: music, :art: art, :runner: running, :thinking: learning and :speaking_head: sharing knowledge.
 
 I'm the founder of [annimon.com](https://annimon.com/) — a Russian-language 10+ years old site where you can share your programming knowledge and learn something new.
 
