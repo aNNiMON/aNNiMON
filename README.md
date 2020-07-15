@@ -17,5 +17,5 @@ More information about my projects and publications you can find on [projects.an
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=annimon&title_color=8f3bff&text_color=d6d4e8&bg_color=1f1f1f)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=annimon&title_color=0e6acc&text_color=d6d4e8&bg_color=1f1f1f)](https://github.com/anuraghazra/github-readme-stats)
 
