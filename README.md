@@ -6,7 +6,7 @@ I'm the founder of [annimon.com](https://annimon.com/) — a Russian-language 10
 
 Some tutorials you can find in [annimon-tutorials organization](https://github.com/annimon-tutorials).
 
-More information about my projects and publications you can find on [projects.annimon.com](https://projects.annimon.com).
+More information about my projects and publications you can find on [projects.annimon.com](https://projects.annimon.com/).
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,5 +17,6 @@ More information about my projects and publications you can find on [projects.an
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=annimon&title_color=0e6acc&text_color=d6d4e8&bg_color=1f1f1f)](https://github.com/anuraghazra/github-readme-stats)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/annimon)
 
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=annimon&title_color=0e6acc&text_color=d6d4e8&bg_color=1f1f1f&hide=["commits","contribs"])](https://github.com/anuraghazra/github-readme-stats)
